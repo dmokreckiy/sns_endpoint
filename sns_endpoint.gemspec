@@ -17,6 +17,6 @@ Gem::Specification.new do |gem|
   
   
   gem.add_runtime_dependency "httparty"
-  gem.add_runtime_dependency "sinatra"
+#   gem.add_runtime_dependency "sinatra"
   gem.add_runtime_dependency "json"
 end
