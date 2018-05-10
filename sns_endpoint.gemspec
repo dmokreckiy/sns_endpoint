@@ -14,8 +14,8 @@ Gem::Specification.new do |gem|
   gem.name          = "sns_endpoint"
   gem.require_paths = ["lib"]
   gem.version       = SnsEndpoint::VERSION
-  
-  
+
+
   gem.add_runtime_dependency "httparty"
 #   gem.add_runtime_dependency "sinatra"
   gem.add_runtime_dependency "json"
